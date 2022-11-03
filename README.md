@@ -12,15 +12,15 @@
 
 [Installation](#installation)
 
-
 ### Description
 
-A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+The backend development of an ecommerce site using express, sequelize and mysql.
 
 ### Demo
 
-Video Demo [click here](https://drive.google.com/file/d/1822dSJB3VUvsT5AFMFmQccfgnrbluAFh/view)
-![Screenshot]()
+Video Demo [click here](https://drive.google.com/file/d/1aRh5PZuFbGy309RrzdB6VEoBTxZ9cLhm/view)
+![Screenshot](https://github.com/MartaS333/ecommerce_backen_orm/blob/main/assets/screenshot.png)
+
 
 ### Installation
 
